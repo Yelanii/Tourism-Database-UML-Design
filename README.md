@@ -23,5 +23,5 @@ This project focuses on the design and modeling of conceptual and logical databa
 * Logically represented key business data needs as a set of interrelated tables, interconnected according to the strict rules of the relational model to be implementable.
 
 ## 📊 View the Project Files
-* **[View the Diagram Solutions & Data Dictionaries](./Database_Systems_Design_UML_Modeling.pdf)**
-* **[View the Original Project Requirements & Briefs](./Project%20Description%20%20.pdf)**
+* **[View the Diagram Solutions & Data Dictionaries](./Database_Systems_Design.pdf)**
+* **[View the Original Project Requirements & Briefs](./Project_Description.pdf)**
