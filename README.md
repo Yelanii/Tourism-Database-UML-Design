@@ -1,8 +1,8 @@
 
-# [cite_start]Database Systems Design & UML Modeling for Tourism Management [cite: 74, 75]
+# Database Systems Design & UML Modeling for Tourism Management 
 
 ## 📌 Project Overview
-[cite_start]This project focuses on the design and modeling of conceptual and logical database systems using UML notations for tourism management scenarios[cite: 77]. [cite_start]The work involved identifying entities, relationships, multiplicities, attributes, primary and foreign keys, and transforming business requirements into structured ERD models[cite: 78]. [cite_start]The project demonstrates database design principles, system analysis, relational modeling, and logical data organization using industry-standard UML methodologies[cite: 79].
+This project focuses on the design and modeling of conceptual and logical database systems using UML notations for tourism management scenarios[cite: 77]. [cite_start]The work involved identifying entities, relationships, multiplicities, attributes, primary and foreign keys, and transforming business requirements into structured ERD models[cite: 78]. [cite_start]The project demonstrates database design principles, system analysis, relational modeling, and logical data organization using industry-standard UML methodologies[cite: 79].
 
 ## 🛠️ Methodologies & Documentation
 * [cite_start]**Methodologies:** Conceptual Modeling, Logical Modeling, Relational Database Design [cite: 77, 78, 79]
